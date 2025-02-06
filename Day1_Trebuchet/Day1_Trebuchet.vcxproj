@@ -24,6 +24,7 @@
     <ProjectGuid>{1eebe0ec-bea9-469b-9372-30018a2d820f}</ProjectGuid>
     <RootNamespace>Day1Trebuchet</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day01_Trebuchet</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

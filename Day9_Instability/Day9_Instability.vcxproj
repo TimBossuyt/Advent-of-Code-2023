@@ -24,6 +24,7 @@
     <ProjectGuid>{3aed4310-af32-4fbd-9d31-b5da6a0c0724}</ProjectGuid>
     <RootNamespace>Day9Instability</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day09_Instability</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

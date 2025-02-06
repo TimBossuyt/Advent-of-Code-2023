@@ -24,6 +24,7 @@
     <ProjectGuid>{3424d4c1-73d2-4f7f-a2b5-3f83623b4d14}</ProjectGuid>
     <RootNamespace>Day8Mapnodes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day08_Mapnodes</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

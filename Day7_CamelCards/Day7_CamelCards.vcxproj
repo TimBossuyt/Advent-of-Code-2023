@@ -24,6 +24,7 @@
     <ProjectGuid>{54bcaaf8-d491-4c70-ad2e-a86591437d71}</ProjectGuid>
     <RootNamespace>Day7CamelCards</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day07_CamelCards</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

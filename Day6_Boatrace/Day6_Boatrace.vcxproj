@@ -24,6 +24,7 @@
     <ProjectGuid>{69c4abf4-1869-4fb8-9101-7b8aa7b6433b}</ProjectGuid>
     <RootNamespace>Day6Boatrace</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day06_Boatrace</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

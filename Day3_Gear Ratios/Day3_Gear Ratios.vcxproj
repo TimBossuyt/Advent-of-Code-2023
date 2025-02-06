@@ -24,6 +24,7 @@
     <ProjectGuid>{0ce5727e-da12-4928-8051-deb7cf38eaf2}</ProjectGuid>
     <RootNamespace>Day3GearRatios</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day03_Gear Ratios</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

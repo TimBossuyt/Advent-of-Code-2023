@@ -24,6 +24,7 @@
     <ProjectGuid>{71ad5c79-c666-4ecc-bc41-5dfc78be634a}</ProjectGuid>
     <RootNamespace>Day4Scratchcards</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day04_Scratchcards</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
